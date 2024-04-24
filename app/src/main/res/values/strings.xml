@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Gitonga_Wamuyu_S2110904</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="my_map_key">"AIzaSyBhBYBer_6OnEvsC1mE5M3zvqU0Jv4T_Hw"</string>
+    <string name="min_temp">Min: %s°C</string>
+    <string name="max_temp">Max: %s°C</string>
+</resources>
