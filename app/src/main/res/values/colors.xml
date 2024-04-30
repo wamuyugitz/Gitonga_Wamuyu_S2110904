@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Author:  Wamuyu Gitonga, Student ID: s2110904 -->
+
 <resources>
     <color name="purple_200">#FFBB86FC</color>
     <color name="purple_500">#5B070707</color>
@@ -8,4 +10,5 @@
     <color name="black">#7C000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="transparent_color">#5B070707</color>
+    <color name="colorPrimary">#00796B</color>
 </resources>

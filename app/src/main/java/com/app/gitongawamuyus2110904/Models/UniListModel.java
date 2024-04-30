@@ -1,3 +1,7 @@
+/*
+ * Author: Wamuyu Gitonga
+ * Student ID: s2110904
+ */
 package com.app.gitongawamuyus2110904.Models;
 
 // Class representing a university with its name and location

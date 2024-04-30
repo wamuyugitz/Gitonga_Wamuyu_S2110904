@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Author:  Wamuyu Gitonga, Student ID: s2110904 -->
+
 <resources>
     <dimen name="card_corner_radious">15dp</dimen>
     <dimen name="icon_size">30dp</dimen>
